@@ -1,0 +1,38 @@
+---
+settings:
+  name: NetApp Data Services
+  platform: cloud
+  internal:
+    pdf_enabled: false
+    lipi_enabled: true
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: ko-kr,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: NetApp 콘솔
+    url: "../console-setup-admin/index.html"
+  - title: 스토리지 관리
+    url: "../storage-management-family/index.html"
+  - title: 릴리스 노트
+    url: "../console-relnotes/index.html"
+  - title: 백업 및 복구
+    url: "../data-services-backup-recovery/index.html"
+  - title: 클라우드 티어링
+    url: "../data-services-cloud-tiering/index.html"
+  - title: 복사 및 동기화
+    url: "../data-services-copy-sync/index.html"
+  - title: 데이터 분류
+    url: "../data-services-classification/index.html"
+  - title: 재해 복구
+    url: "../data-services-disaster-recovery/index.html"
+  - title: 랜섬웨어 복원력
+    url: "../data-services-ransomware-resilience/index.html"
+  - title: 복제
+    url: "../data-services-replication/index.html"
+  - title: 볼륨 캐싱
+    url: "../data-services-volume-caching/index.html"
+  - title: 작업 부하
+    url: "../workload-family"
