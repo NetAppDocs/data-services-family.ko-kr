@@ -2,7 +2,7 @@
 product-family:
   title: NetApp 데이터 서비스
   lead: NetApp 콘솔을 통해 NetApp 데이터 서비스에 액세스하여 데이터 인프라를 보호하고 보안을 강화하세요.
-  summary: NetApp 콘솔을 통해 NetApp Data Services에 액세스하여 데이터 인프라를 보호하고 보안을 강화하세요.
+  summary: NetApp 콘솔을 통해 NetApp 데이터 서비스에 액세스하여 데이터 인프라를 보호하고 보안을 강화하세요.
   sidebarlinks:
   - title: 모두
     tags: all
@@ -45,7 +45,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: 클라우드 티어링
     icon: "./media/icon-tiering.png"
-    url: "../data-services-tiering/index.html"
+    url: "../data-services-cloud-tiering/index.html"
     summary: 콜드 데이터를 저비용 객체 스토리지로 자동으로 이동하여 지속적으로 사용 가능한 용량을 확보합니다.
     tags: all,aws,azure,gcp,mobility
   - title: 데이터 분류
@@ -70,7 +70,7 @@ product-family:
     tags: all,mobility
   - title: 볼륨 캐싱
     icon: "./media/icon-volume-caching.png"
-    url: "../data-services-volume-caching/index.html"
+    url: "../console-volume-caching/index.html"
     summary: 데이터 액세스 속도를 높이거나 액세스 빈도가 높은 볼륨의 트래픽을 오프로드하려면 쓰기 가능한 캐시 볼륨을 만듭니다.
     tags: all,mobility
   - title: 작업 부하
