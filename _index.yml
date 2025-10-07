@@ -50,7 +50,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: 데이터 분류
     icon: "./media/icon-data-sense.png"
-    url: "../data-services-classification/index.html"
+    url: "../data-services-data-classification/index.html"
     summary: 데이터를 스캔하고 분류하여 거버넌스, 효율성, 개인정보 보호 기능을 강화합니다.
     tags: all,governance,aws,azure,gcp
   - title: 재해 복구
@@ -60,7 +60,7 @@ product-family:
     summary: VMware 워크로드에 대한 완벽한 재해 보호 솔루션을 실행합니다.
   - title: 랜섬웨어 복원력
     icon: "./media/icon-ransomware.png"
-    url: "../data-services-ransomware-protection/index.html"
+    url: "../data-services-ransomware-resilience/index.html"
     summary: 데이터를 보호하고 워크플로를 자동화하기 위해 스토리지 계층에서 강력한 랜섬웨어 방어 시스템을 구현합니다.
     tags: all,protection
   - title: 복제
