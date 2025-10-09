@@ -1,7 +1,7 @@
 ---
 product-family:
   title: NetApp 데이터 서비스
-  lead: NetApp 콘솔을 통해 NetApp 데이터 서비스에 액세스하여 데이터 인프라를 보호하고 보안을 강화하세요.
+  lead: NetApp Console 통해 NetApp 데이터 서비스에 액세스하여 데이터 인프라를 보호하고 보안을 강화하세요.
   summary: NetApp 콘솔을 통해 NetApp 데이터 서비스에 액세스하여 데이터 인프라를 보호하고 보안을 강화하세요.
   sidebarlinks:
   - title: 모두
@@ -13,7 +13,7 @@ product-family:
     tags: protection
   - title: 통치
     tags: governance
-  - title: NetApp 콘솔
+  - title: NetApp Console
     tags: console
   - title: 스토리지 관리
     tags: storage-management
@@ -23,17 +23,17 @@ product-family:
   - title: 릴리스 노트
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: NetApp Console과 NetApp Data Services의 새로운 기능에 대해 알아보세요.
+    summary: NetApp Console 과 NetApp Data Services 새로운 기능에 대해 알아보세요.
     tags: all
-  - title: NetApp 콘솔
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: NetApp 콘솔을 사용하여 ID 및 액세스 관리를 관리하고 에이전트를 배포하는 등의 작업을 수행하세요.
+    summary: NetApp Console 사용하여 ID 및 액세스 관리를 관리하고 에이전트를 배포하는 등의 작업을 수행하세요.
     tags: all,console
   - title: 스토리지 관리
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
-    summary: NetApp 콘솔을 통해 스토리지 시스템을 관리하세요.
+    summary: NetApp Console 통해 스토리지 시스템을 관리하세요.
     tags: storage-management
   - title: 백업 및 복구
     icon: "./media/icon-backup.png"
@@ -78,5 +78,5 @@ product-family:
   - title: 작업 부하
     icon: "./media/icon-workloads.png"
     url: "../workload-family"
-    summary: FSx for ONTAP 의 프로비저닝, 거버넌스 및 수명 주기를 자동화합니다.  비용 절감과 고급 관리에 대해 알아보세요.
+    summary: FSx for ONTAP 의 프로비저닝, 거버넌스 및 수명 주기를 자동화합니다. 비용 절감과 고급 관리에 대해 알아보세요.
     tags: all,workloads
