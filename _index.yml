@@ -13,6 +13,8 @@ product-family:
     tags: protection
   - title: 통치
     tags: governance
+  - title: NetApp 콘솔
+    tags: console
   - title: 스토리지 관리
     tags: storage-management
   - title: 작업 부하
@@ -27,7 +29,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: NetApp 콘솔을 사용하여 ID 및 액세스 관리를 관리하고 에이전트를 배포하는 등의 작업을 수행하세요.
-    tags: all,connectors,iam
+    tags: all,console
   - title: 스토리지 관리
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
