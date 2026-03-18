@@ -18,7 +18,7 @@ product-family:
   - title: 스토리지 관리
     tags: storage-management
   - title: 작업 부하
-    tags: migrations
+    tags: workloads
   tiles:
   - title: 릴리스 노트
     icon: "./media/icon-docs.png"
@@ -34,7 +34,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
     summary: NetApp Console 통해 스토리지 시스템을 관리하세요.
-    tags: storage-management
+    tags: all, storage-management
   - title: 백업 및 복구
     icon: "./media/icon-backup.png"
     url: "../data-services-backup-recovery/index.html"
