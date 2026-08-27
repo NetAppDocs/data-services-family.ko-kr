@@ -17,6 +17,8 @@ product-family:
     tags: console
   - title: 스토리지 관리
     tags: storage-management
+  - title: 작업 부하
+    tags: workloads
   tiles:
   - title: 릴리스 노트
     icon: "./media/icon-docs.png"
@@ -73,3 +75,8 @@ product-family:
     url: "../console-volume-caching/index.html"
     summary: 데이터 액세스 속도를 높이거나 액세스 빈도가 높은 볼륨의 트래픽을 오프로드하려면 쓰기 가능한 캐시 볼륨을 만듭니다.
     tags: all,mobility
+  - title: 작업 부하
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: FSx for ONTAP 의 프로비저닝, 거버넌스 및 수명 주기를 자동화합니다. 비용 절감과 고급 관리에 대해 알아보세요.
+    tags: all,workloads
